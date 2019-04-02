@@ -1,0 +1,50 @@
+    body{
+		/*background-image: url(http://333v.ru/uploads/2d/2d4d43f97670e12bfe37960f915f89e0.jpg);*/
+		background-color:#00FFFF;
+	}
+	.login{
+		background-color: white;
+		width: 350px;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		margin-top: 5%;
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 10px;
+	}
+	.loginheading{
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.loginbottomtext{
+		text-align: center;
+		margin-top: 20px;
+	}
+	.pagecontainer{
+		margin-top: 30px;
+		background-color: white; 
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		margin-left: 20px;
+		margin-right: 20px;
+		
+	}
+	.pageheader {
+		width: 100%;
+		height: 60px;
+		background-color: #ff6800;
+		margin: 0;
+		padding: 0;
+	}
+	.menubutton{
+	color: white;
+    background-color: #ff6800;
+	border: 0px solid transparent;
+	font-size: 20pt;
+	margin-top: 10px;
+	}
+	.pagetitle{
+		color: white;
+		margin: 10px;
+	}
+	.contentheight{
+		height: 300px;
+	}
